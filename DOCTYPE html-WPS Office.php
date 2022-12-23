@@ -37,7 +37,7 @@
         <h1>Subscribe To Our Newsletter</h1>
         <form>
           <input type="email" placeholder="Enter Email..." required>
-          <button type="submit" class="button_1">Subscribe</button>
+          < button  type = "submit"  class = "button2" > اشتراك </ button >
         </form>
       </div>
     </section>
